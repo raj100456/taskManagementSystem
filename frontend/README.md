@@ -1,3 +1,33 @@
+# Project Title
+
+This project is a full-stack application with a React frontend and a Node.js backend. It includes user authentication, task management, and employee management functionalities.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm
+- MongoDB
+
+### Installation
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git
+   ```
+
+2. Navigate to the backend directory and install dependencies:
+
+cd backend
+npm install
+
+3. Navigate to the frontend directory and install dependencies:
+
+cd ../frontend
+npm install
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
